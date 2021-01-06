@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.3A2F9C9C-588E-4025-B129-A93812C3FD7A</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>3A2F9C9C-588E-4025-B129-A93812C3FD7A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAssistant</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>DisableSiri</string>
+	<key>PayloadIdentifier</key>
+	<string>mbp.6A7A176B-BF93-432B-84C2-1B00E179C392</string>
+	<key>PayloadOrganization</key>
+	<string>dcRUSTy</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>81E453EB-61D9-4499-A62E-799F173A7851</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadScope</key>
+	<string>System</string>
+</dict>
+</plist>
