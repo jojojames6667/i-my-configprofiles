@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.A1E96E17-A7AE-4B11-B9AC-16514FC3CF10</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>A1E96E17-A7AE-4B11-B9AC-16514FC3CF10</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowApplePersonalizedAdvertising</key>
+			<false/>
+			<key>allowDiagnosticSubmission</key>
+			<false/>
+			<key>forceLimitAdTracking</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables App tracking requests, personalised ads, diagnostic &amp; usage data sending</string>
+	<key>PayloadDisplayName</key>
+	<string>Privacy</string>
+	<key>PayloadIdentifier</key>
+	<string>mbp.A35DAABE-EAB9-4525-9F17-9EA2652EE756</string>
+	<key>PayloadOrganization</key>
+	<string>dcRUSTy</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6B21CCB2-F4B9-4915-8065-35DD2163F5AD</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadScope</key>
+	<string>System</string>
+</dict>
+</plist>
