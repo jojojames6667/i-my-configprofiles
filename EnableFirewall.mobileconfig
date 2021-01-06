@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EnableFirewall</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Firewall settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Firewall</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.firewall.8A4BC0EF-53B8-4BC1-A7D6-40D0C0F07249</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.security.firewall</string>
+			<key>PayloadUUID</key>
+			<string>8A4BC0EF-53B8-4BC1-A7D6-40D0C0F07249</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables Firewall</string>
+	<key>PayloadDisplayName</key>
+	<string>Enable Firewall</string>
+	<key>PayloadIdentifier</key>
+	<string>C723B34-90E1-41DD-97A1-D6D50F8F5BA2</string>
+	<key>PayloadOrganization</key>
+	<string>dcRUSTy</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>BC723B34-90E1-41DD-97A1-D6D50F8F5BA2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
