@@ -6,38 +6,36 @@
 	<array>
 		<dict>
 			<key>PayloadDescription</key>
-			<string>Configures restrictions</string>
+			<string>Configures device restrictions.</string>
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.A1E96E17-A7AE-4B11-B9AC-16514FC3CF10</string>
+			<string>com.intrepidusgroup.djs.test.simple.restrictions</string>
+			<key>PayloadOrganization</key>
+			<string></string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>A1E96E17-A7AE-4B11-B9AC-16514FC3CF10</string>
+			<string>77D2FFB1-C010-4220-A3D9-BFE4B3EF99FD</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAssistant</key>
+			<key>allowYouTube</key>
 			<false/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Disables App tracking requests, personalised ads, diagnostic &amp; usage data sending</string>
+	<string>Very simple profile to test restrictions.</string>
 	<key>PayloadDisplayName</key>
-	<string>Privacy13</string>
+	<string>Very Simple Restriction Test</string>
 	<key>PayloadIdentifier</key>
-	<string>mbp.A35DAAB5-EAB9-4525-9F17-9EA2652EE756</string>
+	<string>com.intrepidusgroup.djs.test.simple</string>
 	<key>PayloadOrganization</key>
-	<string>dcRUSTy</string>
+	<string></string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6B21CCB5-F4B9-4915-8065-35DD2163F5AD</string>
+	<string>2D9490F4-E890-4B37-9062-7095FEF0E482</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
-	<key>PayloadScope</key>
-	<string>System</string>
-</dict>
-</plist>
