@@ -17,7 +17,7 @@
 			<string>3A2F9C9C-588E-4025-B129-A93812C3FD7A</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAssistant</key>
+			<key>allowYoutube</key>
 			<false/>
 		</dict>
 	</array>
