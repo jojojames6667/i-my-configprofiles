@@ -17,20 +17,16 @@
 			<string>A1E96E17-A7AE-4B11-B9AC-16514FC3CF10</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowApplePersonalizedAdvertising</key>
+			<key>allowCloudCalendar</key>
 			<false/>
-			<key>allowDiagnosticSubmission</key>
-			<false/>
-			<key>forceLimitAdTracking</key>
-			<true/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Disables App tracking requests, personalised ads, diagnostic &amp; usage data sending</string>
 	<key>PayloadDisplayName</key>
-	<string>Privacy</string>
+	<string>Privacy13</string>
 	<key>PayloadIdentifier</key>
-	<string>mbp.A35DAABE-EAB9-4525-9F17-9EA2652EE756</string>
+	<string>mbp.A35DAAB5-EAB9-4525-9F17-9EA2652EE756</string>
 	<key>PayloadOrganization</key>
 	<string>dcRUSTy</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -38,7 +34,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6B21CCB2-F4B9-4915-8065-35DD2163F5AD</string>
+	<string>6B21CCB5-F4B9-4915-8065-35DD2163F5AD</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>PayloadScope</key>
