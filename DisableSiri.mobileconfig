@@ -14,7 +14,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>3A2F9C9N-588E-4025-B129-A93812C3FD7A</string>
+			<string>3A2F9C9C-588E-4025-B129-A93812C3FD7A</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowCloudCalendar</key>
