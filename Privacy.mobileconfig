@@ -17,7 +17,7 @@
 			<string>A1E96E17-A7AE-4B11-B9AC-16514FC3CF10</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowCloudCalendar</key>
+			<key>allowAssistant</key>
 			<false/>
 		</dict>
 	</array>
