@@ -14,17 +14,17 @@
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>3A2F9C9C-588E-4025-B129-A93812C3FD7A</string>
+			<string>3A2F9C9D-588E-4025-B129-A93812C3FD7A</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAssistant</key>
+			<key>safariAllowJavaScript</key>
 			<false/>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>DisableSiri</string>
+	<string>DisableSir</string>
 	<key>PayloadIdentifier</key>
-	<string>mbp.6A7A176B-BF93-432B-84C2-1B00E179C392</string>
+	<string>mbp.6A7A176C-BF93-432B-84C2-1B00E179C392</string>
 	<key>PayloadOrganization</key>
 	<string>dcRUSTy</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -32,7 +32,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>81E453EB-61D9-4499-A62E-799F173A7851</string>
+	<string>81E453EC-61D9-4499-A62E-799F173A7851</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>PayloadScope</key>
