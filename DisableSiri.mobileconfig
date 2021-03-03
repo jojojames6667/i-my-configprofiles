@@ -17,7 +17,7 @@
 			<string>3A2F9C9C-588E-4025-B129-A93812C3FD7A</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAssistant</key>
+			<key>allowYoutube</key>
 			<false/>
 		</dict>
 	</array>
@@ -32,7 +32,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>81E453EB-61D9-4499-A62E-799F173A7851</string>
+	<string>81E453EL-61D9-4499-A62E-799F173A7851</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>PayloadScope</key>
