@@ -19,7 +19,11 @@
 			<string>77D2FFB1-C010-4220-A3D9-BFE4B3EF99FD</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowYouTube</key>
+			<key>allowNFC</key>
+			<false/>
+			<key>allowRadioService</key>
+			<false/>
+			<key>allowProximitySetupToNewDevice</key>
 			<false/>
 		</dict>
 	</array>
